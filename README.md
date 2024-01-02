@@ -17,9 +17,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a QA engineer<img src="https://media.giphy.com/media/TKk8mayzb9et4mb6Ut/giphy.gif" width="40" height="40" id="QA" align="bottom">
-
-and a Front-end Developer <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30" id="JS"> from Lithuania.
+I am a QA engineer<img src="https://media.giphy.com/media/TKk8mayzb9et4mb6Ut/giphy.gif" width="40" height="40" id="QA" align="bottom"> from Lithuania.
 
 ---
 
